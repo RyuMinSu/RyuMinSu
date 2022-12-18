@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white)<br>
 
-![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)<br>
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)<br>
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)<br>
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)<br>
 
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)<br>
-![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat&logo=Folium&logoColor=white)<br>
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
+![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat&logo=Folium&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)<br>
 
-![UFC](https://img.shields.io/badge/-UFC-D20A0A?style=flat&logo=UFC&logoColor=white)<br>
-![Nike](https://img.shields.io/badge/-Nike-111111?style=flat&logo=Nike&logoColor=white)<br>
-![NBA](https://img.shields.io/badge/-NBA-253B73?style=flat&logo=NBA&logoColor=white)<br>
+![UFC](https://img.shields.io/badge/-UFC-D20A0A?style=flat&logo=UFC&logoColor=white)
+![Nike](https://img.shields.io/badge/-Nike-111111?style=flat&logo=Nike&logoColor=white)
+![NBA](https://img.shields.io/badge/-NBA-253B73?style=flat&logo=NBA&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white)<br>
