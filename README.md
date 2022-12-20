@@ -1,6 +1,6 @@
 ### Hi there I'm Datascientist who lives funny!! 👋
-##Career
-#Degree
+## Career
+# Degree
 - Korea National Sports Universy
   - BKin.YouthGuidance&SportsEducation
   - MKin.YouthGuidance&SportsEducation
