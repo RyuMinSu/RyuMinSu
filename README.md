@@ -1,11 +1,20 @@
-### Hi there I'm Datascientist who lives funny!! 👋
+### Hi there, I'm Datascientist who lives funny!! Let's have fun with me!!👋
 
 ### Degree
-- Korea National Sports Universy
-  - BKin.YouthGuidance&SportsEducation
-  - MKin.YouthGuidance&SportsEducation
+***Korea National Sports Universy***
+- BKin.YouthGuidance&SportsEducation
+- MKin.YouthGuidance&SportsEducation
 
-### Available&Interest
+### Hobby
+***Leisure***: Campping, Eating, Travel<br>
+***Sports***: Running, Boxing, Basketball, Ski
+
+### Licence
+***DataAnalysis***: 빅데이터분석기사, ADsp, SQLd<br>
+***Sports***: Ski(lv.1), SportMassage(lv.1)<br>
+***Youth***: YouthInstructr(lv.2)
+
+### Available & Interest
 
 <!--
 **RyuMinSu/RyuMinSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
