@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm Datascientist who lives funny!! 👋
+##Career
+#Degree
+- Korea National Sports Universy
+  - BKin.YouthGuidance&SportsEducation
+  - MKin.YouthGuidance&SportsEducation
+
 
 <!--
 **RyuMinSu/RyuMinSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
